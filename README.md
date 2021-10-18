@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RyanMartinsOne
+- 👋 Hi, I’m Ryan Martins
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
